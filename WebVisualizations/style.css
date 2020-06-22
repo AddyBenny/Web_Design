@@ -1,0 +1,70 @@
+body {
+    padding: 0px;
+    margin-left: unset;
+    margin-right: unset;
+    background-color: whitesmoke;
+    color: black;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 200%;
+    color: blue;
+    font-style: normal;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    font-size: 180%;
+    color: blue;
+    font-style: normal;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3 {
+    font-size: 160%;
+    color: blue;
+    font-style: normal;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    color: #000;
+    text-align: justify;
+    font-size: 125%;
+    vertical-align: baseline;
+    line-height: 150%;
+    font-style: unset;
+}
+
+
+/* img {
+
+} */
+
+.navbar-brand {
+    background-color: blue;
+    font-size: 1.8em;
+    margin-right: 40px;
+    font-family: serif;
+}
+
+.dropdown-item {
+    color: blue;
+    font-size: 1em;
+}
+
+
+/* .nav-link {
+    margin-right: 40px;
+    font-family: serif;
+} */
+
+
+/* @media{
+
+} */
