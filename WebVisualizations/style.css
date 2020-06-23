@@ -2,7 +2,7 @@ body {
     padding: 0px;
     margin-left: unset;
     margin-right: unset;
-    background-color: whitesmoke;
+    background-color: whitesmoke);
     color: black;
     font-size: 16px;
     font-family: sans-serif;
@@ -10,7 +10,7 @@ body {
 
 h1 {
     font-size: 200%;
-    color: blue;
+    color: purple;
     font-style: normal;
     text-align: left;
     font-family: 'Times New Roman', Times, serif;
@@ -18,7 +18,7 @@ h1 {
 
 h2 {
     font-size: 180%;
-    color: blue;
+    color: purple;
     font-style: normal;
     text-align: left;
     font-family: 'Times New Roman', Times, serif;
@@ -26,7 +26,7 @@ h2 {
 
 h3 {
     font-size: 160%;
-    color: blue;
+    color: purple;
     font-style: normal;
     text-align: left;
     font-family: 'Times New Roman', Times, serif;
@@ -47,14 +47,14 @@ p {
 } */
 
 .navbar-brand {
-    background-color: blue;
+    background-color: purple;
     font-size: 1.8em;
     margin-right: 40px;
     font-family: serif;
 }
 
 .dropdown-item {
-    color: blue;
+    color: purple;
     font-size: 1em;
 }
 
@@ -68,3 +68,22 @@ p {
 /* @media{
 
 } */
+
+.table {
+    margin: auto;
+    text-align: center;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer {
+    padding: 10px 20px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #666;
+    color: white;
+    text-align: center;
+}
